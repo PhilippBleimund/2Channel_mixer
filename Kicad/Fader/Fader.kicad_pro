@@ -330,6 +330,14 @@
     [
       "1311911b-ac37-4bbd-b6ee-b960ed38759e",
       "Main Mixer"
+    ],
+    [
+      "ba207a79-adb5-4a72-bd80-aae5f9227df5",
+      "simple_Amp"
+    ],
+    [
+      "013f0b80-9da5-4500-b4cb-64cdefcfe6f0",
+      "simple_Amp1"
     ]
   ],
   "text_variables": {}
